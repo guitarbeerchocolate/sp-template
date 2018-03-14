@@ -7,7 +7,7 @@ Replace the data recieved from the form with arrays.
 Use a better means of updating the page than jQuery
 Research this today. Create a test page.
 
-You didn't load the climate data from the files in the correct order. This turned out to be more important later on. Absolutely nail each task before moving on to the next.
+You didn't load the data from the files in the correct order. This turned out to be more important later on. Absolutely nail each task before moving on to the next.
 
 Make sure the application can be developed locally and pushed to the remote location. Use a code management tool for this like git. You need the system to make a note of which files you've changed etc, so that you don't have to keep a track.
 
